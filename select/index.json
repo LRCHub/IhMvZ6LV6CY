@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "warm",
+  "base_artist": "Ariana Grande",
+  "createdAt": "2026-03-04T08:15:47.476034Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stay Warm",
+      "artist": "Warlocks",
+      "has_synced": false,
+      "path": "select/01_Stay_Warm_Warlocks.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "My Warm Blood",
+      "artist": "The Microphones",
+      "has_synced": false,
+      "path": "select/02_My_Warm_Blood_The_Microphones.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Warm",
+      "artist": "Majid Jordan",
+      "has_synced": false,
+      "path": "select/03_Warm_Majid_Jordan.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Warm Waters",
+      "artist": "Milosh",
+      "has_synced": false,
+      "path": "select/04_Warm_Waters_Milosh.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Warm Leatherette",
+      "artist": "The Normal",
+      "has_synced": false,
+      "path": "select/05_Warm_Leatherette_The_Normal.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You Were So Warm",
+      "artist": "Nada Surf",
+      "has_synced": true,
+      "path": "select/06_You_Were_So_Warm_Nada_Surf.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Here Come the Warm Jets",
+      "artist": "Brian Eno",
+      "has_synced": false,
+      "path": "select/07_Here_Come_the_Warm_Jets_Brian_Eno.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A Warm Summer Night - Remastered",
+      "artist": "Chic",
+      "has_synced": false,
+      "path": "select/08_A_Warm_Summer_Night_-_Remastered_Chic.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Warm Summer Night (12'' Version)",
+      "artist": "Chic",
+      "has_synced": false,
+      "path": "select/09_A_Warm_Summer_Night_(12''_Version)_Chic.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cold Feet Warm Heart",
+      "artist": "Echobelly",
+      "has_synced": true,
+      "path": "select/10_Cold_Feet_Warm_Heart_Echobelly.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Keep It Warm",
+      "artist": "Black Sabbath",
+      "has_synced": true,
+      "path": "select/11_Keep_It_Warm_Black_Sabbath.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Warm Feeling",
+      "artist": "Booka Shade",
+      "has_synced": true,
+      "path": "select/12_Warm_Feeling_Booka_Shade.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Warm Ways",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/13_Warm_Ways_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Warm Ways",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/14_Warm_Ways_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Warm Leatherette",
+      "artist": "Grace Jones",
+      "has_synced": false,
+      "path": "select/15_Warm_Leatherette_Grace_Jones.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "warm",
+      "artist": "Ariana Grande",
+      "has_synced": false,
+      "path": "select/pl_01_warm_Ariana_Grande.txt"
+    }
+  ]
+}
